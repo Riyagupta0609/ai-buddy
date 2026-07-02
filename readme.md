@@ -40,7 +40,7 @@ AI-Learning-Buddy-Riya/
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/your-username/AI-Learning-Buddy-Riya.git
+git clone https://github.com/Riyagupta0609/ai-buddy
 ```
 
 2. Move into the project folder.
